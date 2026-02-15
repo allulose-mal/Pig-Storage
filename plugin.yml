@@ -1,0 +1,7 @@
+name: Pig Storage
+version: '0.1-INDEV'
+main: net.allulose.pigStorage.PigStorage
+api-version: '1.21'
+commands:
+  pigchest:
+
